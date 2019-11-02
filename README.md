@@ -5,13 +5,13 @@ Computer science diagrams I’ve made in Ti𝑘Z. See also: <a href="https://git
 ## Updates
 
 ![bellman-ford](/pics/bellman-ford.png)
-<br><b>Heineman, Pollice, Selkow - <i>Algorithms in a Nutshell</i> (2nd Ed.), p. 155
+<br><b>Heineman, Pollice, Selkow - <i>Algorithms in a Nutshell</i> (2nd Ed.), p. 155</b>
 <br>2018.12.12: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm">Bellman–Ford</a>]
 
 &nbsp;
 
 ![neural net](/pics/neural%20net.png)
-<br><b>Kuan - “Artificial neural networks” (<i>The New Palgrave</i>, <a href="https://link.springer.com/referenceworkentry/10.1057/978-1-349-95121-5_2714-1">2nd Ed.</a>), fig. 1 & 3</b>
+<br><b>Kuan - “Artificial neural networks” (<i>The New Palgrave</i>, <a href="https://link.springer.com/referenceworkentry/10.1057/978-1-349-95121-5_2714-1">2nd Ed.</a>), fig. 1 & 3</b></b>
 <br>2018.04.02: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Artificial_neural_network">neural nets</a>]
 
 &nbsp;
