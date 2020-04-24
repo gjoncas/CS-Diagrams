@@ -22,3 +22,9 @@ Computer science diagrams I’ve made in Ti𝑘Z. See also: <a href="https://git
 <br>2018.04.03: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Perceptron">perceptrons</a>]
 
 &nbsp;
+
+![support-vector-machine](/pics/support-vector-machine.png)
+<br><b>MLMath.io - Math behind SVM (Support Vector Machine) [Feb 13, <a href="https://medium.com/@ankitnitjsr13/math-behind-svm-support-vector-machine-864e58977fdb">2019</a>]</b>
+<br>2020.04.24: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Support-vector_machine">SVMs</a>]
+
+&nbsp;
