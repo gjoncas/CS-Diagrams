@@ -28,3 +28,9 @@ Computer science diagrams I’ve made in Ti𝑘Z. See also: <a href="https://git
 <br>2020.04.24: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Support-vector_machine">SVMs</a>]
 
 &nbsp;
+
+![gradient-boosting](/pics/gradient-boosting.png)
+<br><b>Variant of [this diagram](https://media.geeksforgeeks.org/wp-content/uploads/20190812224752/finclassifier.png)</b>
+<br>2020.11.27: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Gradient_boosting">gradient boosting</a>]
+
+&nbsp;
