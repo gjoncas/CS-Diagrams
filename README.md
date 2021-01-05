@@ -29,6 +29,12 @@ Computer science diagrams I’ve made in Ti𝑘Z. See also: <a href="https://git
 
 &nbsp;
 
+![petri-net](/pics/petri-candle.png)
+<br><b>Desel & Reisig - The concepts of Petri nets (2015), p. 671</b>
+<br>2020.10.17: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Petri_net">Petri net</a> representation of lighting a candle]
+
+&nbsp;
+
 ![gradient-boosting](/pics/gradient-boosting.png)
 <br><b>Variant of [this diagram](https://media.geeksforgeeks.org/wp-content/uploads/20190812224752/finclassifier.png)</b>
 <br>2020.11.27: Finished. &nbsp;[<a href="https://en.wikipedia.org/wiki/Gradient_boosting">gradient boosting</a>]
